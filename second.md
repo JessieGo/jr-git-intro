@@ -1,1 +1,1 @@
-second.md change1 master change2
+second.md first change to second change
